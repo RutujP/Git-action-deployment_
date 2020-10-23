@@ -1,5 +1,5 @@
 import sys
-sys.path.append("..")
+print(sys.path)
 
 from src.app import index
 
